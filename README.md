@@ -31,4 +31,4 @@ shell_useful
 
 **Alt + B** 	Move cursor backward one word on the current line
 
-Tab 	Auto-complete files and folder names
+**Tab** 	Auto-complete files and folder names
